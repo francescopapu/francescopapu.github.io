@@ -1,12 +1,12 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
+languageCode = "it"
+languageName = "Italiano"
 weight = 1
 title = "Francesco Maria Papulino"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "IT"
+  isoCode = "it"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
@@ -20,7 +20,7 @@ title = "Francesco Maria Papulino"
    image = "img/foto_profilo1.jpg"
    imageQuality = 96
    headline = "Security Analyst @ Accenture"
-   bio = "27 years old, Naples."
+   bio = "27 anni, Napoli."
    links = [
      { email = "mailto:francescom.papulino@gmail.com" },
 #    { link = "https://link-to-some-website.com/" },
