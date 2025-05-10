@@ -24,14 +24,19 @@ jobs:
         with:
           hugo-version: "latest"
 
-      - name: Build
-        working-directory: ./website/
-        run: hugo --minify
+      - name: NPM or Yarn install with caching
+        uses: bahmutov/npm-install@v1.10.9
 
+      - name: GitHub Action for npx
+        uses: mikeal/npx@1.0.0
+
+      - run: tinacms build -c "hugo"
+        working-directory: ./website
+        
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
-          publish_dir: ./website/public
+          publish_dir: ./public
