@@ -1,8 +1,0 @@
-[submodule "website/themes/blowfish"]
-	path = website/themes/blowfish
-	url = https://github.com/nunocoracao/blowfish.git
-	branch = main
-[submodule "website/public"]
-	path = website/public
-	url = https://github.com/francescopapu/francescopapu.github.io.git
-	branch = main
