@@ -24,9 +24,6 @@ jobs:
         with:
           hugo-version: "latest"
 
-      - name: Move to root folder
-        run: cd website/
-
       - name: Build
         run: hugo --minify
 
