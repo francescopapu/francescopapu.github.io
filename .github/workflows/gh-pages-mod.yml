@@ -23,17 +23,17 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "latest"
-          path: ./website/
+          working-directory: ./website/
 
       - name: NPM or Yarn install with caching
         uses: bahmutov/npm-install@v1.10.9
         with:
-          path: ./website/
+          working-directory: ./website/
 
       - name: GitHub Action for npx
         uses: mikeal/npx@1.0.0
         with:
-          path: ./website/
+          working-directory: ./website/
 
       - run: tinacms build -c "hugo"
         working-directory: ./website/
@@ -45,4 +45,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./public
-          path: ./website/
+          working-directory: ./website/
