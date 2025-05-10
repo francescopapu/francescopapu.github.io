@@ -19,7 +19,7 @@
 #  name = "Parent"
 #  weight = 20
 
-[[main]]
+[[subnavigation]]
   name = "Riparazione"
   parent = "Posts"
   pageRef = "posts"
