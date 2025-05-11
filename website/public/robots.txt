@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://francescopapu.github.io/hugo_website/sitemap.xml
