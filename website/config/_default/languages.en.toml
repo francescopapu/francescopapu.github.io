@@ -17,8 +17,8 @@ title = "Francesco Maria Papulino"
  [params.author]
    name = "Francesco Maria Papulino"
    email = "francescom.papulino@gmail.com"
-  # image = "foto_profilo1.jpg"
-  # imageQuality = 96
+   image = "foto_profilo1.jpg"
+   imageQuality = 96
    headline = "Security Analyst @ Accenture"
    bio = "27 years old, Naples."
    links = [
