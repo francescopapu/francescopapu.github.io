@@ -23,6 +23,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>/posts/nuovopost/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>/posts/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
