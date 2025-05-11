@@ -16,8 +16,8 @@
   weight = 10
 
 [[main]]
-  name = "Repairing"
-  parent = "Posts"
+  name = "2025"
+  parent = "Blog"
   pageRef = "posts"
   weight = 10
 

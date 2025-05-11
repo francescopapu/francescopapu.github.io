@@ -11,12 +11,12 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Posts"
+  name = "Blog"
   weight = 20
 
 [[main]]
-  name = "Riparazione"
-  parent = "Posts"
+  name = "2025"
+  parent = "Blog"
   pageRef = "posts"
   weight = 10
 
