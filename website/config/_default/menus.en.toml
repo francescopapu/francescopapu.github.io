@@ -11,9 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Posts"
-  pageRef = "posts"
-  weight = 10
+  name = "Blog"
+  weight = 20
 
 [[main]]
   name = "2025"
