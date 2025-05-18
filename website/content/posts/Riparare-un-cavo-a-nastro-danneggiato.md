@@ -2,10 +2,6 @@
 title: Riparare un cavo a nastro danneggiato
 ---
 
-***
-
-## showDate = false
-
 ### Introduzione
 
 Il mio Home Lab ha la possibilità di collegare un SSD NVME ed un disco SATA, tramite una interfaccia che presenta un cavo a nastro (in inglese "ribbon cable"). Tale interfaccia è il modello "***902746-001 HDD SATA MGE 16/51 Rev A***", facilmente rimpiazzabile e reperibile online. In questo post vi condivido come ho riparato un danno che ne comprometteva il corretto funzionamento.
