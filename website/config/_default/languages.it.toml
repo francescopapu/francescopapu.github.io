@@ -17,10 +17,10 @@ title = "Francesco Maria Papulino"
  [params.author]
    name = "Francesco Maria Papulino"
    email = "francescom.papulino@gmail.com"
-   image = "foto_profilo1.jpg"
+   image = "foto_profilo1.jpeg"
    imageQuality = 96
-   headline = "Security Analyst @ Accenture"
-   bio = "27 anni, Napoli."
+   headline = "Security Senior Analyst @ Accenture"
+   bio = "28 anni, Napoli."
    links = [
      { email = "mailto:francescom.papulino@gmail.com" },
 #    { link = "https://link-to-some-website.com/" },
