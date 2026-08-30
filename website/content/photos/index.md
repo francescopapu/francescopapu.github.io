@@ -18,7 +18,7 @@ una galleria di foto scattate negli anni
 ---
 
 {{< gallery >}}
-  {{< figure src="images/01_legami.jpg" alt="legami" caption="legami" class="rounded-none" figureClass="grid-w33" >}}
+  {{< figure src="images/01_legami.jpg" alt="legami" caption="legami" default=true figureClass="grid-w33" >}}
   {{< figure src="images/02_door_closing.jpg" alt="door closing" caption="door closing" figureClass="grid-w33" >}}
   {{< figure src="images/03_bank_heist.jpg" alt="bank heist" caption="bank heist" figureClass="grid-w33" >}}
   {{< figure src="images/04_0x44_david.jpg" alt="0x44 (david)" caption="0x44 (david)" figureClass="grid-w33" >}}
