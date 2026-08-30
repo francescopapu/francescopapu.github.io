@@ -1,5 +1,14 @@
 ---
 title: Riparare un cavo a nastro danneggiato
+
+showReadingTime: false
+groupByYear: false
+showAuthor: false
+showWordCount: false
+showDate: false
+showBreadcrumbs: false
+showPagination: false
+showTableOfContents: false
 ---
 
 ### Introduzione

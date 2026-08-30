@@ -12,12 +12,11 @@ showPagination: false
 showTableOfContents: false
 
 ---
-Testo.
 
 {{< gallery >}}
-  <img src="arcofelice_fabbrica_prysmiangroup.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="door closing 2.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="goldeneye.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="arcofelice_fabbrica_prysmiangroup.jpg" class="grid-w33" />
+  <img src="door closing 2.jpg" class="grid-w33" />
+  <img src="goldeneye.jpg" class="grid-w33" />
 {{< /gallery >}}
 
 

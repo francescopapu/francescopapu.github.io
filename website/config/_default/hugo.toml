@@ -67,3 +67,10 @@ enableEmoji = true
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+[languageRedirect]
+  enabled = true
+  storageKey = "blowfish_preferred_language"
+  fallbackLanguage = "it"
+  browserRedirectHomeOnly = true
+  storedLanguageRedirect = true
