@@ -10,7 +10,7 @@ showDate: false
 showBreadcrumbs: false
 showPagination: false
 showTableOfContents: false
-layout: "photo-gallery"
+
 ---
 Testo.
 
